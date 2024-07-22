@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "name": "geva281-super-server",
+  "version": "1.0.0",
+  "main": "lib/appserver.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "guy geva",
+  "license": "ISC",
+  "description": "my first package in node.js course"
+}

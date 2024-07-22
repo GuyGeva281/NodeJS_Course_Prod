@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+}
+body{
+    height:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 74, 148);
+    /*display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    */
+    background-color: #999;
+    background-repeat: no-repeat;
+    transition: 500ms;
+}
+div{
+    background-color: #fafafa;
+   /* margin:4vw;*/
+}
+#chat{
+    overflow-y: auto;
+    
+}
+.srv,.me
+{
+    padding: 4px;
+    border-radius: 10px;
+    border: 2px solid #999;
+    background-color: lightgoldenrodyellow;
+    
+}
+.me{
+    text-align: right;
+    background-color: aquamarine;
+}
