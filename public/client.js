@@ -1,6 +1,6 @@
 let ws;
 function connectWebSocket(){
-    ws = new WebSocket("ws://localhost:3006");
+    ws = new WebSocket("wss://nodejs-course-prod.onrender.com");
     ws.onopen= ()=>{
         console.log("conncted to server");
     };

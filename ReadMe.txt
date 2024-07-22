@@ -1,1 +1,1 @@
-this folder is for prudction deployment only
+this folder is for prudction deployment onlyiniti
